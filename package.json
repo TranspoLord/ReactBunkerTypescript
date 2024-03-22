@@ -1,0 +1,14 @@
+{
+  "name": "reactbunkertypescript",
+  "version": "1.0.0",
+  "description": "Having fun and creating a game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony See",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.7.1"
+  }
+}
